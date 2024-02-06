@@ -3,19 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.medium.reader",
+      "package_name": "com.example.deeplink_cookbook",
       "sha256_cert_fingerprints": [
         "99:B9:9D:84:1F:F5:2A:26:07:3F:03:8C:74:EB:4F:7A:F6:48:48:D9:41:C4:39:D1:8C:E4:4C:B5:E1:E1:C5:C9"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.medium.reader.debug",
-      "sha256_cert_fingerprints": [
-        "C0:2B:71:CF:C5:91:34:85:08:C0:C4:4B:2C:A1:E3:ED:DA:BB:82:87:4F:AA:B1:E6:7C:F8:E0:C5:85:38:AC:34"
       ]
     }
   },
