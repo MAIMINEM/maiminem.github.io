@@ -5,17 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.example.deeplink_cookbook",
       "sha256_cert_fingerprints": [
-        "99:B9:9D:84:1F:F5:2A:26:07:3F:03:8C:74:EB:4F:7A:F6:48:48:D9:41:C4:39:D1:8C:E4:4C:B5:E1:E1:C5:C9"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.deeplink_cookbook",
-      "sha256_cert_fingerprints": [
-        "5A:33:EA:64:09:97:F2:F0:24:21:0F:B6:7A:A8:18:1C:18:A9:83:03:20:21:8F:9B:0B:98:BF:43:69:C2:AF:4A"
+        "CB:36:C7:0D:BD:5B:CE:65:2A:A6:E3:9F:FB:F1:A9:55:08:E8:3A:25:EA:62:2A:C1:D3:62:84:CA:FF:F0:12:90"
       ]
     }
   }
